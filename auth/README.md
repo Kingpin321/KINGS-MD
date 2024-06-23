@@ -1,4 +1,4 @@
-## Best world bot bmw md made bt Ibrahim Adams
+## Best world bot kings md made bt Kingpin Tech
 
 
 
@@ -10,4 +10,4 @@
 
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/0a70a3ba8d65e3fcf0105.jpg" alt="01" border="0" /></a>                     
