@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> BMW X5 MD </h1>
+ <h1 align="center"> KINGS MD </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -9,7 +9,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
+<p align="center"> KINGS MD💥, A Simple WhatsApp user BOT, Created by Kingpin Tech.
 </p>
 <p align="center">
 
@@ -57,7 +57,7 @@ HOW TO REACH THE OWNER?
 
 4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
 
-## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙈𝙒 𝙈𝘿
+## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  KINGS 𝙈𝘿
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
