@@ -1,6 +1,6 @@
 {
   "name":"KINGS-MD",
-  "description":"bot whatsapp développé by Kingpin Tech",
+  "description":"bot whatsapp développé by 𝑲𝒊𝒏𝒈𝒑𝒊𝒏 𝑻𝒆𝒄𝒉",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/96dbdb89ca313c6b5b9d4.jpg",
   "repository":"https://github.com/Kingpin321/KINGS-MD",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"KINGS-MD",
+      "value":"𝙆𝙄𝙉𝙂𝙎-𝙈𝘿",
       "required":false
 
     } ,
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Kingpin"
+    "value": "𝙆𝙄𝙉𝙂𝙋𝙄𝙉 𝙏𝙀𝘾𝙃"
   },
     "NUMERO_OWNER":
   {
