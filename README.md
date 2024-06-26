@@ -5,11 +5,11 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+KINGS+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+KINGPIN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝙆𝙄𝙉𝙂𝙎+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝙆𝙄𝙉𝙂𝙋𝙄𝙉)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> KINGS MD💥, A Simple WhatsApp user BOT, Created by Kingpin Tech.
+<p align="center"> 𝙆𝙄𝙉𝙂𝙎 𝙈𝘿💥, A Simple WhatsApp user BOT, Created by 𝑲𝑰𝑵𝑮𝑷𝑰𝑵 𝑻𝑬𝑪𝑯.
 </p>
 <p align="center">
 
@@ -24,7 +24,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 🧧 🧧 🧧 🧧
 ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vaihcnh1iUxgTWto0Q0D" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -57,7 +57,7 @@ HOW TO REACH THE OWNER?
 
 4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Kingpin Tech App..
 
-## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  KINGS 𝙈𝘿
+## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝙆𝙄𝙉𝙂𝙎 𝙈𝘿
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
