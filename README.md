@@ -87,7 +87,7 @@ Contributions to *KINGS-MD* are welcome! If you have ideas for new features, imp
 
 The *KINGS-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *BMW-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by Kingpin Tech
+Enjoy the diverse features of the *𝙆𝙄𝙉𝙂𝙎-𝙈𝘿*  to enhance your Whatsapp more enjoyable
+☣Powered by 𝑲𝑰𝑵𝑮𝑷𝑰𝑵 𝑻𝑬𝑪𝑯
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
