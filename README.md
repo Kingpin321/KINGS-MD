@@ -70,8 +70,8 @@ HOW TO REACH THE OWNER?
 
 
 
-<a><img src='https://telegra.ph/file/903af5f4becce977c3c17.jpg'/></a>
-<a><img src='https://telegra.ph/file/903af5f4becce977c3c17.jpg'/></a>
+<a><img src='https://telegra.ph/file/8cadc5decd4d7f21185e3.jpg'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
   
 
