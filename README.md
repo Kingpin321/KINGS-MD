@@ -16,7 +16,8 @@
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/96dbdb89ca313c6b5b9d4.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">  SESSION SITE 
+ <h1 align="center">  𝐊𝐢𝐧𝐠𝐩𝐢𝐧 𝐓𝐞𝐜𝐡 𝐂𝐨𝐝𝐞
+  SESSION SITE 
 
 
 <a href="https://github.com/Kingpin321/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
