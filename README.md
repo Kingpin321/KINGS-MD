@@ -5,7 +5,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗞𝗜𝗡𝗚𝗦+𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣+𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘+𝗕𝗢𝗧;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗞𝗜𝗡𝗚𝗣𝗜𝗡+𝗧𝗘𝗖𝗛)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗞𝗜𝗡𝗚𝗦+𝗠𝗗+𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣+𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘+𝗕𝗢𝗧;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗞𝗜𝗡𝗚𝗣𝗜𝗡+𝗧𝗘𝗖𝗛)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
@@ -74,7 +74,7 @@ HOW TO REACH THE OWNER?
 
 
 
-<a><img src='https://telegra.ph/file/8cadc5decd4d7f21185e3.jpg'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
   
