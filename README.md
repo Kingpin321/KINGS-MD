@@ -49,7 +49,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/BMW-MD/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/Kingpin321/KINGS-MD/fork)
 
 2, TAP ON KINGPIN TECH APP DOWN THERE
 
