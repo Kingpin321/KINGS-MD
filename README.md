@@ -26,9 +26,12 @@
 <a href="https://github.com/Kingpin321"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-KINGPIN TECH-red.svg?style=for-the-badge&logo=github"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 🧧 🧧 🧧 🧧
-## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029Vaihcnh1iUxgTWto0Q0D" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<p align="center">
+ 
+2. **FOLLOW OUR WHATSAPP CHANNEL**
+
+- <a href="https://whatsapp.com/channel/0029Vaihcnh1iUxgTWto0Q0D" target="_blank">
+    <img alt="CLICK HERE " src="https://img.shields.io/badge/ FOLLOW NOW  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
