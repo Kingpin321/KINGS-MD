@@ -70,7 +70,7 @@ HOW TO REACH THE OWNER?
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://github.com/Kingpin321/DEPLOYMENT-SITE)***
+  ***[`TAP HERE TO DEPLOY TO CHOOSE DEPLOYMENT SITE`](https://github.com/Kingpin321/DEPLOYMENT-SITE)***
 
 
 
