@@ -71,7 +71,7 @@ HOW TO REACH THE OWNER?
 
 4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Kingpin Tech App..
 
-## 𝘾𝙇𝙄𝘾𝙆 𝗛𝗘𝗥𝗘 𝗧𝗢 𝗖𝗛𝗢𝗢𝗦𝗘 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗦𝗜𝗧𝗘 𝗢𝗥 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗞𝗜𝗡𝗚𝗦 𝙈𝘿
+## 𝘾𝙇𝙄𝘾𝙆 𝗛𝗘𝗥𝗘 𝗧𝗢 𝗖𝗛𝗢𝗢𝗦𝗘 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗦𝗜𝗧𝗘 𝗢𝗥 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗞𝗜𝗡𝗚𝗦 𝗠𝗗
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
