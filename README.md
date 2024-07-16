@@ -47,7 +47,6 @@ HOW TO REACH THE OWNER?
 <a href="https://t.me/kingpintech"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://telegra.ph/file/271a231d5e27a03fcc5a9.mp4'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
     ## Ask any thing
