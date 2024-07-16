@@ -59,12 +59,12 @@ france({ nomCom: "developer", categorie: "General", reaction: "🚘" }, async (d
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "France King", numero: "254710772666" },
-      { nom: "᚛Ibrahimadams᚜", numero: "254710772666" },
+      { nom: "France King", numero: "254702626305" },
+      { nom: "᚛Ibrahimadams᚜", numero: "254702626305" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Oyaah 👊\n *Welcome to BMW-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Ibrahim Adams_*\n*◇AGE: 20*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV MOVIE: _ONE EYE_*\n*◇INSTAGRAM: https://instagram.com/Ibrahim_tech_official*\n*◇Twitter: https://twitter.com/Ibrahim_adams*\n\n______________________________\n\n*🚖KEEP USING BMW-MD🚖*\n\n\n_The following are my contacts_:\n:";
+    let message = "Oyaah 👊\n *Welcome to KINGS-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Kingpin Tech_*\n*◇AGE: 19*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV MOVIE: _THE OVAL_*\n*◇INSTAGRAM: https://instagram.com/Ibrahim_tech_official*\n\n______________________________\n\n*🚖KEEP USING KINGS-MD🚖*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -100,7 +100,7 @@ france({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpt
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254757835036`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254716860343`},{quoted :ms})
 
 })
  
