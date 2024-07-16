@@ -29,14 +29,14 @@ france({
           
        let infoMess = {
           image: {url : videos[0]. thumbnail},
-         caption : `*BMW-MD SONG'S*\n\n*Title:* ${videos[0].title}
+         caption : `*𝗞𝗜𝗡𝗚𝗦 𝗠𝗗 𝗦𝗢𝗡𝗚'𝗦*\n\n*Title:* ${videos[0].title}
          
 *Duration:* ${videos[0].timestamp}
 *Song Url:* ${videos[0].url}
 
 
 
-*_Made by Ibrahim Adams._*`
+*_Made by Kingpin Tech._*`
        }
 
       
@@ -103,13 +103,13 @@ france({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `*BMW-MD VIDEO'S*\n\n*Title :* ${Element.title}
+        caption: `*𝗞𝗜𝗡𝗚𝗦 𝗠𝗗 𝗩𝗜𝗗𝗘𝗢'𝗦*\n\n*Title :* ${Element.title}
 *Duration :* ${Element.timestamp}
 *Video Url:* ${Element.url}
 
 
 
-*Made by Ibrahim Adams*\n\n`
+*Made by Kingpin Tech*\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
@@ -130,7 +130,7 @@ france({
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*BMW-MD*", gifPlayback: false }, { quoted: ms });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*KINGS-MD*", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {
