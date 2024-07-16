@@ -1,4 +1,4 @@
-## Best world bot kings md made bt Kingpin Tech
+## Best world bot kings md made by Kingpin Tech
 
 
 
