@@ -30,7 +30,7 @@
  
 1. **FOLLOW OUR WHATSAPP CHANNEL**
 
-- <a href="https://whatsapp.com/channel/0029Vaihcnh1iUxgTWto0Q0D" target="_blank">
+- <a href="https://whatsapp.com/channel/0029VajuvtrLY6dAmWJKD544" target="_blank">
     <img alt="CLICK HERE " src="https://img.shields.io/badge/ FOLLOW NOW  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
